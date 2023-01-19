@@ -1,0 +1,19 @@
+/*
+Theme Name: Test Theme
+Author: Me
+*/
+
+
+body {
+    background: black;
+}
+
+header {
+    background: #fff;
+    width: 100%;
+    height: 100px;
+}
+
+.navigation {
+    
+}
